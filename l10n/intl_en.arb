@@ -1,0 +1,9 @@
+{
+  "appTitle": "flashfood",
+  "onboardingTitle1": "Add items to your inventory",
+  "onboardingTitle2": "Track expiry & reduce waste",
+  "onboardingTitle3": "Shopping lists & analytics",
+  "@appTitle": {
+    "description": "Application title"
+  }
+}
